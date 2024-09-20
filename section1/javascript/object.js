@@ -40,3 +40,5 @@ const employee = [
     {name:"bhawna",department:"it",salary:80000},
 ]
 console.log(employee[1])
+
+console.log("===========")
